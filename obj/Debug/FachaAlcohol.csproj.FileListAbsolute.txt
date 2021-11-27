@@ -1,0 +1,14 @@
+C:\Users\nacho\source\repos\FachaAlcohol\FachaAlcohol\bin\Debug\FachaAlcohol.exe.config
+C:\Users\nacho\source\repos\FachaAlcohol\FachaAlcohol\bin\Debug\FachaAlcohol.exe
+C:\Users\nacho\source\repos\FachaAlcohol\FachaAlcohol\bin\Debug\FachaAlcohol.pdb
+C:\Users\nacho\source\repos\FachaAlcohol\FachaAlcohol\obj\Debug\FachaAlcohol.csprojAssemblyReference.cache
+C:\Users\nacho\source\repos\FachaAlcohol\FachaAlcohol\obj\Debug\FachaAlcohol.frmMain.resources
+C:\Users\nacho\source\repos\FachaAlcohol\FachaAlcohol\obj\Debug\FachaAlcohol.Properties.Resources.resources
+C:\Users\nacho\source\repos\FachaAlcohol\FachaAlcohol\obj\Debug\FachaAlcohol.csproj.GenerateResource.cache
+C:\Users\nacho\source\repos\FachaAlcohol\FachaAlcohol\obj\Debug\FachaAlcohol.csproj.CoreCompileInputs.cache
+C:\Users\nacho\source\repos\FachaAlcohol\FachaAlcohol\obj\Debug\FachaAlcohol.exe
+C:\Users\nacho\source\repos\FachaAlcohol\FachaAlcohol\obj\Debug\FachaAlcohol.pdb
+C:\Users\nacho\source\repos\FachaAlcohol\FachaAlcohol\bin\Debug\FachaAlcohol.exe.manifest
+C:\Users\nacho\source\repos\FachaAlcohol\FachaAlcohol\bin\Debug\FachaAlcohol.application
+C:\Users\nacho\source\repos\FachaAlcohol\FachaAlcohol\obj\Debug\FachaAlcohol.exe.manifest
+C:\Users\nacho\source\repos\FachaAlcohol\FachaAlcohol\obj\Debug\FachaAlcohol.application

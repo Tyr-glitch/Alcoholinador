@@ -1,0 +1,10 @@
+C:\Users\nacho\source\repos\FachaAlcohol\FachaAlcohol\bin\Release\FachaAlcohol.exe.config
+C:\Users\nacho\source\repos\FachaAlcohol\FachaAlcohol\bin\Release\FachaAlcohol.exe
+C:\Users\nacho\source\repos\FachaAlcohol\FachaAlcohol\bin\Release\FachaAlcohol.pdb
+C:\Users\nacho\source\repos\FachaAlcohol\FachaAlcohol\obj\Release\FachaAlcohol.frmMain.resources
+C:\Users\nacho\source\repos\FachaAlcohol\FachaAlcohol\obj\Release\FachaAlcohol.Properties.Resources.resources
+C:\Users\nacho\source\repos\FachaAlcohol\FachaAlcohol\obj\Release\FachaAlcohol.csproj.GenerateResource.cache
+C:\Users\nacho\source\repos\FachaAlcohol\FachaAlcohol\obj\Release\FachaAlcohol.csproj.CoreCompileInputs.cache
+C:\Users\nacho\source\repos\FachaAlcohol\FachaAlcohol\obj\Release\FachaAlcohol.exe
+C:\Users\nacho\source\repos\FachaAlcohol\FachaAlcohol\obj\Release\FachaAlcohol.pdb
+C:\Users\nacho\source\repos\FachaAlcohol\FachaAlcohol\obj\Release\FachaAlcohol.csprojAssemblyReference.cache
